@@ -1,6 +1,8 @@
 # vimup
 Vim config
 
+Copy `.vimrc` to `~/.vimrc`
+
 Install vim-gnome for system clipboard access
 
 ```bash
